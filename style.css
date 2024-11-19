@@ -2,4 +2,25 @@ body {
    padding: 0;
    margin: 0;
    font-size: 16px;
+   background-color: #aeffe5;
+   color: #32ff4e
+}
+
+ul , li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav {
+   width: 1200px;
+   margin: auto; 
+   display: flex;
+   justify-content: space-between;
+}
+
+nav ul {
+   display: flex;
+   
+
 }
